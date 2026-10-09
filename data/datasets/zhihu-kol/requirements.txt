@@ -19,7 +19,7 @@ charset-normalizer==3.0.1
 comm==0.1.2
 contourpy==1.0.6
 cycler==0.11.0
-datasets==2.10.0
+datasets==5.0.1
 debugpy==1.6.6
 decorator==5.1.1
 defusedxml==0.7.1
