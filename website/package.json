@@ -58,7 +58,7 @@
     "lucide-react": "^0.105.0",
     "next": "13.0.6",
     "next-auth": "^4.20.1",
-    "next-i18next": "^13.2.2",
+    "next-i18next": "^16.5.2",
     "nodemailer": "^6.9.1",
     "postcss-focus-visible": "^7.1.0",
     "react": "18.2.0",
